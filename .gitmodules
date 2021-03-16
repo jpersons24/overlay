@@ -1,3 +1,6 @@
 [submodule "overlay-frontend"]
 	path = overlay-frontend
 	url = ./overlay-frontend
+[submodule "overlay-backend"]
+	path = overlay-backend
+	url = ./overlay-backend
