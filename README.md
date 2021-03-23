@@ -28,3 +28,6 @@ Finally, Overlay has been designed to give users and sports fans a place to comm
 
 
 >The backend server does not necesarily need to be on port 4000. Any other port besides 3000 will suffice. The NPM server runs on localhost:3000.
+
+
+If you have questions, concerns or any issues please send an email to jakob.e.persons@gmail.com with breif but detailed description of the issue. It will be addressed as soon as possible.
