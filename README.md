@@ -17,7 +17,7 @@ Event and odds information fetched using the RESTful [odds-api](https://the-odds
 Finally, Overlay has been designed to give users and sports fans a place to communicate with others about their favorite teams, opposition teams and odds that are being placed on specific games. Through a 'post' type format, a User can leave insight they may have on injuries or team news that may affect the way bets are placed or odds viewed.
 
 
-> Overlay is still in development, with further sports, leagues and teams to be included
+> Overlay is still in development. Plans for further features, additional content and design/brand development are in the works currently. A more detailed road map will be provided as time allows.
 
 ## Installation
 
@@ -27,7 +27,7 @@ Finally, Overlay has been designed to give users and sports fans a place to comm
 3. Once both servers are up and running, in your internet broswer all you have to do is sign into your user account, or create one if you have yet to do so. Once logged in, you will be able to navigate around the site as your wish!
 
 
->The backend server does not necesarily need to be on port 4000. Any other port besides 3000 will suffice. The NPM server runs on localhost:3000.
+>The backend server does not necessarily need to be on port 4000. Any other port besides 3000 will suffice. The NPM server runs on localhost:3000.
 
 
 If you have questions, concerns or any issues please send an email to jakob.e.persons@gmail.com with breif but detailed description of the issue. It will be addressed as soon as possible.
