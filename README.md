@@ -22,9 +22,9 @@ Finally, Overlay has been designed to give users and sports fans a place to comm
 ## Installation
 
 1. Start by cloning the overall project repository.
-2. Change directories `cd overlay-frontend` into the front end react application. Assuming that you have used NPM before, run the command `npm install` from your command line. Once NPM installation has completed, run the command `npm start` to start the server and open the application in the browser.
-2. Next, cd back to the top level directory and `cd overlay-backend` into the back end directory. Once in that directory run `rails s -p 4000` to start the back end server.
-3. Once both servers are up and running, in your internet broswer all you have to do is sign into your user account, or create one if you have yet to do so. Once logged in, you will be able to navigate around the site as your wish!
+2. Change directories `cd overlay-frontend` into the front end react application. Assuming that you have used NPM before, run the command `npm install` from your command line. Once NPM installation has completed, run the command `npm start` to start the server and the application will open automatically in your browser window.
+3. Next, cd back to the top level directory and `cd overlay-backend` into the back end directory. Once in that directory run `rails s -p 4000` to start the back end server.
+4. Once both servers are up and running, in your internet broswer all you have to do is sign into your user account, or create one if you have yet to do so. Once logged in, you will be able to navigate around the site as your wish!
 
 
 >The backend server does not necessarily need to be on port 4000. Any other port besides 3000 will suffice. The NPM server runs on localhost:3000.
