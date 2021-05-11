@@ -27,7 +27,5 @@ Finally, Overlay has been designed to give users and sports fans a place to comm
 4. Once both servers are up and running, in your internet broswer all you have to do is sign into your user account, or create one if you have yet to do so. Once logged in, you will be able to navigate around the site as your wish!
 
 
->The backend server does not necessarily need to be on port 4000. Any other port besides 3000 will suffice. The NPM server runs on localhost:3000.
-
 
 If you have questions, concerns or any issues please send an email to jakob.e.persons@gmail.com with breif but detailed description of the issue. It will be addressed as soon as possible.
